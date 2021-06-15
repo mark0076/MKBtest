@@ -8,8 +8,8 @@
 7. Повторить пункты 4,5 (3 раза)
 
 Environment:
-Java 8
-selenium 4.0.0-beta-4
-junit-jupiter 5.8.0-M1
-chrome 91 
-OS Windows 
+Java 8,
+selenium 4.0.0-beta-4,
+junit-jupiter 5.8.0-M1,
+chrome 91,
+OS Windows.
