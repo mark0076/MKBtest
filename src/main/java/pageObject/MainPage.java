@@ -31,7 +31,6 @@ public class MainPage {
         driver.findElement(enterButton).click();
     }
     public void auth_error_message_check() throws InterruptedException {
-        //=driver.wait(5000);
         Assertions.assertTrue(driver.findElement(errorAuthMessage).isDisplayed(),"Error message is not visible but should be visible");
     }
     public void auth_block_error_message_check(){
